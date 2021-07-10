@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container-fluid {
+    margin-left: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+
+.card{
+	color: white;
+	background-color: #4F4F4F;
+	border-radius: 20px;
+	padding: 20px;
+	transition: all 0.3s ease-in-out;
+}
+
+.card:hover{
+	background-color: #9E9E9E;
+	transform: scale(1.05)
+	
+}
+
+
+
+body
+{ background-color: black;}
+
+#el_encabezado{
+	color: white;
+}
+
+
+#clothingnavcontent1 #home1 p {
+    color: rgba(255,255,255,1.00);
+}
+.container-fluid #clothingnavcontent1 #paneTwo1 {
+    color: rgba(255,255,255,1.00);
+}
